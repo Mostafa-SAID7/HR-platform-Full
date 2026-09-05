@@ -48,7 +48,7 @@
     "axe-core": "^4.11.2",
     "browserslist": "^4.28.6",
     "eslint": "^8.56.0",
-    "eslint-config-prettier": "^9.1.0",
+    "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-prettier": "^5.1.2",
     "fast-check": "^4.6.0",
     "husky": "^8.0.3",
